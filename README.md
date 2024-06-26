@@ -7,4 +7,5 @@ HTML5UP CSS Personal Portfolio
 - **Outcome**: Successfully deployed the site, which led to a 20% increase in online engagement and resulted in several freelance opportunities.
 - **URL**: [https://warquise.github.io/](https://warquise.github.io/)
 
-![image](https://github.com/warquise/warquise.github.io/assets/160808546/dc97b49d-71f2-4979-99c7-fee3bdb46e4e)
+![image](https://github.com/warquise/warquise.github.io/assets/160808546/21e28d46-512b-444b-983d-6178503207d1)
+
